@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jarvis Kikivarakis
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, my name is Jarvis Kikivarakis
+- 🌱 My Bachlor's Degree is in Biology Minoring in Chemistry but interested in data from many different sectors. 
+- 💞️ I’m looking to collaborate with any like minded individuals.
 - 📫 How to reach me: https://www.linkedin.com/in/jarvis-k-a83175144/
 
 <!---
